@@ -4,10 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Shalindri | LinkedIn" width="22px" src="src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="Shalindri | Medium" width="22px" src="src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
-<br />
 ---
 
 ### Some Languages And Tools I Have Used:
