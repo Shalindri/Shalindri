@@ -36,6 +36,11 @@
 
 <p>Read more blog posts <a href="https://shalindri.medium.com">here</a>.</p>
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?shalindri= &theme=radical)
+
+
 
 [linkedin]:https://www.linkedin.com/in/shalindri
 [medium]:https://shalindri.medium.com
