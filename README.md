@@ -1,15 +1,12 @@
 ### Hi, I'm Shalindri 👋
 
----
-
-### Connect with me:
+### Connect With Me:
 
 [<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
----
 
-### Some Languages And Tools I Have Used:
+### Some languages And Tools I Have Used:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -25,9 +22,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
----
+![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri&show_icons=true&count_private=true&fetch_all_commits=true&include_all_commits=true)
+
 
 ### :memo: Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Integrate Yandex as a Federated Identity Provider using WSO2 Identity Server](https://shalindri.medium.com/configure-login-with-yandex-using-wso2-identity-server-bf50ec88cdfb)
 - [Consuming Facebook API Using OAuth 2.0](https://shalindri.medium.com/consuming-facebook-api-using-oauth-2-0-dfded56fe16)
@@ -37,9 +36,6 @@
 
 <p>Read more blog posts <a href="https://shalindri.medium.com">here</a>.</p>
 
----
-
-![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri&show_icons=true&count_private=true&fetch_all_commits=true&include_all_commits=true)
 
 
 [linkedin]:https://www.linkedin.com/in/shalindri
