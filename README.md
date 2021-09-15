@@ -5,6 +5,7 @@
 [<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
+<br />
 
 ### Some languages And Tools I Have Used:
 
@@ -21,9 +22,15 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<br />
+<br />
+
+### My GitHub Stats 📈 
+
 
 ![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri&show_icons=true&count_private=true&fetch_all_commits=true&include_all_commits=true)
 
+<br />
 
 ### :memo: Blog Posts
 
