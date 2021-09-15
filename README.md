@@ -38,7 +38,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?shalindri= &theme=radical)
+[![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri)](https://github.com/shalindri/github-readme-stats)
 
 
 
