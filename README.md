@@ -1,11 +1,14 @@
 ### Hi, I'm Shalindri 👋
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
 <br />
+---
 
 ### Languages and Tools:
 
@@ -26,6 +29,8 @@
 <br />
 <br />
 
+---
+
 ### :memo: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Integrate Yandex as a Federated Identity Provider using WSO2 Identity Server](https://shalindri.medium.com/configure-login-with-yandex-using-wso2-identity-server-bf50ec88cdfb)
@@ -38,8 +43,7 @@
 
 ---
 
-[![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri)](https://github.com/shalindri/github-readme-stats)
-
+![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri&show_icons=true&count_private=true&fetch_all_commits=true&include_all_commits=true)
 
 
 [linkedin]:https://www.linkedin.com/in/shalindri
