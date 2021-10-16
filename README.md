@@ -46,9 +46,5 @@
 
 ![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri&show_icons=true&count_private=true&fetch_all_commits=true&include_all_commits=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalindri)](https://git.io/streak-stats)
 
-<br />
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Shalindri.Shalindri&color=00df00)
-
 [linkedin]:https://www.linkedin.com/in/shalindri
 [medium]:https://shalindri.medium.com
