@@ -2,11 +2,11 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[![Linkedin Badge](https://img.shields.io/badge/-shalindri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalindri/)](https://www.linkedin.com/in/shalindri/)
+[![Medium Badge](https://img.shields.io/badge/-@shalindri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shalindri/)](https://shalindri.medium.com)
 
-<br />
-
+[comment]: <> ([<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin])
+[comment]: <> ([<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium])
 ### Some Tools & Technologies I Have Used
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -42,7 +42,7 @@
 
 <p>Read more blog posts <a href="https://shalindri.medium.com">here</a>.</p>
 
-### My GitHub Stats 📈 
+### 📈 My GitHub Stats 
 
 ![My GitHub stats](https://github-readme-stats-shalindri.vercel.app/api?username=shalindri&show_icons=true&count_private=true&fetch_all_commits=true&include_all_commits=true)
 
