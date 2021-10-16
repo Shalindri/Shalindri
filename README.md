@@ -1,13 +1,13 @@
 ### Hi, I'm Shalindri 👋
 
-### Connect With Me:
+### Connect With Me
 
 [<img align="left" alt="Shalindri | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="Shalindri | Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
 <br />
 
-### Some Tools & Technologies I Have Used:
+### Some Tools & Technologies I Have Used
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -26,12 +26,10 @@
 
 <br />
 
-### Certifications:
+### Certifications
 
-⭐ [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/R3AG01)
-⭐ [WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/R3AG01)
-
-<br />
+- ⭐ [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/R3AG01)
+- ⭐ [WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/R3AG01)
 
 ### :memo: Blog Posts
 
