@@ -26,7 +26,7 @@
 
 <br />
 
-### 🎯 Certifications
+### :medal_sports: Certifications
 
 - ⭐ [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/R3AG01)
 - ⭐ [WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/R3AG01)
