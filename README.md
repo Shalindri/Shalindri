@@ -34,9 +34,11 @@
 ### :memo: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing an API for Application Wise Token Revocation](https://shalindri.medium.com/implementing-an-api-for-application-wise-token-revocation-cbb68d48b5cc)
 - [Integrate Yandex as a Federated Identity Provider using WSO2 Identity Server](https://shalindri.medium.com/configure-login-with-yandex-using-wso2-identity-server-bf50ec88cdfb)
 - [Consuming Facebook API Using OAuth 2.0](https://shalindri.medium.com/consuming-facebook-api-using-oauth-2-0-dfded56fe16)
-- [Simple REST API using Node, Express and MongoDB](https://shalindri.medium.com/simple-rest-api-using-node-express-and-mongodb-b3060d0d330e)
+
+<!-- - [Simple REST API using Node, Express and MongoDB](https://shalindri.medium.com/simple-rest-api-using-node-express-and-mongodb-b3060d0d330e) -->
 
 <!-- BLOG-POST-LIST:END -->
 
